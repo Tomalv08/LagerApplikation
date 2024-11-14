@@ -1,0 +1,15 @@
+C:\Users\Nicola Truscello\Documents\lagerapplikation\LagerApplikation\LagerApplikation\bin\Debug\net6.0\LagerApplikation.exe
+C:\Users\Nicola Truscello\Documents\lagerapplikation\LagerApplikation\LagerApplikation\bin\Debug\net6.0\LagerApplikation.deps.json
+C:\Users\Nicola Truscello\Documents\lagerapplikation\LagerApplikation\LagerApplikation\bin\Debug\net6.0\LagerApplikation.runtimeconfig.json
+C:\Users\Nicola Truscello\Documents\lagerapplikation\LagerApplikation\LagerApplikation\bin\Debug\net6.0\LagerApplikation.dll
+C:\Users\Nicola Truscello\Documents\lagerapplikation\LagerApplikation\LagerApplikation\bin\Debug\net6.0\LagerApplikation.pdb
+C:\Users\Nicola Truscello\Documents\lagerapplikation\LagerApplikation\LagerApplikation\obj\Debug\net6.0\LagerApplikation.csproj.AssemblyReference.cache
+C:\Users\Nicola Truscello\Documents\lagerapplikation\LagerApplikation\LagerApplikation\obj\Debug\net6.0\LagerApplikation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicola Truscello\Documents\lagerapplikation\LagerApplikation\LagerApplikation\obj\Debug\net6.0\LagerApplikation.AssemblyInfoInputs.cache
+C:\Users\Nicola Truscello\Documents\lagerapplikation\LagerApplikation\LagerApplikation\obj\Debug\net6.0\LagerApplikation.AssemblyInfo.cs
+C:\Users\Nicola Truscello\Documents\lagerapplikation\LagerApplikation\LagerApplikation\obj\Debug\net6.0\LagerApplikation.csproj.CoreCompileInputs.cache
+C:\Users\Nicola Truscello\Documents\lagerapplikation\LagerApplikation\LagerApplikation\obj\Debug\net6.0\LagerApplikation.dll
+C:\Users\Nicola Truscello\Documents\lagerapplikation\LagerApplikation\LagerApplikation\obj\Debug\net6.0\refint\LagerApplikation.dll
+C:\Users\Nicola Truscello\Documents\lagerapplikation\LagerApplikation\LagerApplikation\obj\Debug\net6.0\LagerApplikation.pdb
+C:\Users\Nicola Truscello\Documents\lagerapplikation\LagerApplikation\LagerApplikation\obj\Debug\net6.0\LagerApplikation.genruntimeconfig.cache
+C:\Users\Nicola Truscello\Documents\lagerapplikation\LagerApplikation\LagerApplikation\obj\Debug\net6.0\ref\LagerApplikation.dll
